@@ -9,9 +9,7 @@ Technologies used:
       React
       Solodity
       Hardhat
-      Node JS
       Web 3
-      Hardhat
 
   Screenshots:
 
